@@ -59,7 +59,7 @@
 
 .header__subtitle::after {
   content: '\27F6';
-  color: #2f80ed ;
+  color: #2f80ed;
 }
 
 .header__square-pic {
@@ -69,7 +69,6 @@
   top: 64px;
   right: 0px;
   background-color: #2f80ed;
-  position: absolute;
   z-index: 2;
 }
 
@@ -240,12 +239,12 @@
 
 .feynman__link::after {
   content: '\27F6';
-  color: #2f80ed ;
+  color: #2f80ed;
 }
 
 .feynman__main-illustration {
   position: absolute;
-  width: 867x;
+  width: 867px;
   height: 637px;
   left: 0;
   bottom: 0;

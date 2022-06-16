@@ -24,20 +24,20 @@
 .logo_place_header {
   position: absolute;
   width: 228px;
-  height: 32;
+  height: 32px;
   top: 30px;
   left: 64px;
 }
 
 .header__title {
-  margin: 0px 64px;
+  margin: 0 0 0 64px;
   width: 730px;
   line-height: 96px;
   font-size: 102px;
   font-weight: bold;
   position: relative;
   align-self: center;
-  z-index: 999;
+  z-index: 4;
 }
 
 .header__subtitle {
@@ -57,7 +57,7 @@
   color: #2f80ed;
 }
 
-.header__subtitle::after {
+.header__link::after {
   content: '\27F6';
   color: #2f80ed;
 }
@@ -67,7 +67,7 @@
   height: 568px;
   width: 568px;
   top: 64px;
-  right: 0px;
+  right: 0;
   background-color: #2f80ed;
   z-index: 2;
 }
@@ -194,7 +194,7 @@
 }
 
 .feynman {
-  height: 890px;
+  min-height: 890px;
   background-color: #f2f2f2;
   position: relative;
   display: flex;
@@ -210,7 +210,6 @@
   font-weight: bold;
   text-align: center;
   z-index: 3;
-  display: c;
 }
 
 .feynman__subtitle {
@@ -288,6 +287,7 @@
 }
 
 .footer {
+  min-height: 350px;
   background-color: #1f1f1f;
   position: relative;
   color: white;
@@ -295,7 +295,7 @@
 }
 
 .footer__columns {
-  min-height: 350px;
+
   width: 90%;
   display: flex;
   position: relative;
@@ -318,7 +318,7 @@
 .logo_place_footer {
   position: relative;
   width: 228px;
-  height: 32;
+  height: 32px;
   z-index: 999;
 }
 

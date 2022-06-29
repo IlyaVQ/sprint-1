@@ -1,14 +1,6 @@
 .table__text {
-  margin: 20px auto;
+  margin: 20px auto 0;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-  flex-direction: column;
-  display: flex;
-  position: relative;
-  align-self: flex-start;
-}
-
-.table__text:last-of-type {
-  margin-bottom: 0;
 }

@@ -2,7 +2,5 @@
   margin: 0;
   line-height: 1.15;
   font-size: 24px;
-  font-weight: bold;
-  position: relative;
-  display: flex;
+  font-weight: 600;   /*Обновление от 29.06.2022 Бушкова Полина, шрифт полужтрный - 600 */
 }

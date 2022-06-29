@@ -2,8 +2,3 @@
   text-decoration: none;
   color: #2f80ed;
 }
-
-.header__link::after {
-  content: '\27F6';
-  color: #2f80ed;
-}

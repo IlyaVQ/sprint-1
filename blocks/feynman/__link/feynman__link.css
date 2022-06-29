@@ -11,8 +11,3 @@
   right: 48px;
   z-index: 5;
 }
-
-.feynman__link::after {
-  content: '\27F6';
-  color: #2f80ed;
-}

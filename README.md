@@ -7,7 +7,6 @@
 
 Сайт о путешествии по России.</br>
 ![](/images/Image_HL_Collages.jpg)
-
 **Стек**
 - HTML
 - CSS

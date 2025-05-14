@@ -16,5 +16,3 @@
 **Функциональность**: Страница состоит из header, description, techniques, video, oakley, feynman, digits, khan, kaufman, footer.</br>
 Работает в браузерах: Opera, FireFox, Google Chrome, Yandex Browser.</br>
 
-**Ссылка GitHub Pages:**
-[https://evgeniia2405.github.io/how-to-learn/](https://evgeniia2405.github.io/how-to-learn/)
